@@ -1,0 +1,18 @@
+test
+compile
+test
+compile
+test
+compile
+test
+test -feature
+test
+-feature
+feature
+test
+test -feature
+test
+gs
+git status
+git init
+which git

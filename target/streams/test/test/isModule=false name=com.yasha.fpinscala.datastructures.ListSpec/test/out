@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mListSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mA List[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have a head equal to its first element[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have a tail equal to its last elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw errors when trying to access the head or tail of a Nil list[0m[0m

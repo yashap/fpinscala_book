@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0m[32mOptionSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mAn Option trait[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have a working map method[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have a working flatMap method[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have a working getOrElse method[0m[0m
+[0m[[0minfo[0m] [0m[32mmean[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the proper Option[0m[0m
+[0m[[0minfo[0m] [0m[32mvariance[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return None for empty Seq[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return proper values for non-empty Seq[0m[0m
+[0m[[0minfo[0m] [0m[32mmap2[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to lift 'normal' functions to work with Options[0m[0m
+[0m[[0minfo[0m] [0m[32mparseInsuranceRateQuote[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return null if the strings can't be parsed[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the proper value if the strings can be parsed[0m[0m
